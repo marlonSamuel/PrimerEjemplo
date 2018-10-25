@@ -1,0 +1,12 @@
+C:\Users\senpai\Desktop\Prueba\PrimerEjemplo\Examen\Model\bin\Debug\Model.dll.config
+C:\Users\senpai\Desktop\Prueba\PrimerEjemplo\Examen\Model\bin\Debug\Model.dll
+C:\Users\senpai\Desktop\Prueba\PrimerEjemplo\Examen\Model\bin\Debug\Model.pdb
+C:\Users\senpai\Desktop\Prueba\PrimerEjemplo\Examen\Model\bin\Debug\EntityFramework.dll
+C:\Users\senpai\Desktop\Prueba\PrimerEjemplo\Examen\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\senpai\Desktop\Prueba\PrimerEjemplo\Examen\Model\bin\Debug\EntityFramework.xml
+C:\Users\senpai\Desktop\Prueba\PrimerEjemplo\Examen\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\senpai\Desktop\Prueba\PrimerEjemplo\Examen\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\senpai\Desktop\Prueba\PrimerEjemplo\Examen\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\senpai\Desktop\Prueba\PrimerEjemplo\Examen\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\senpai\Desktop\Prueba\PrimerEjemplo\Examen\Model\obj\Debug\Model.dll
+C:\Users\senpai\Desktop\Prueba\PrimerEjemplo\Examen\Model\obj\Debug\Model.pdb

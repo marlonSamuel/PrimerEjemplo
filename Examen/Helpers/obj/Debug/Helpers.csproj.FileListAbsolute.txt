@@ -1,0 +1,12 @@
+C:\Users\senpai\Desktop\Prueba\PrimerEjemplo\Examen\Helpers\bin\Debug\Helpers.dll
+C:\Users\senpai\Desktop\Prueba\PrimerEjemplo\Examen\Helpers\bin\Debug\Helpers.pdb
+C:\Users\senpai\Desktop\Prueba\PrimerEjemplo\Examen\Helpers\obj\Debug\Helpers.csprojAssemblyReference.cache
+C:\Users\senpai\Desktop\Prueba\PrimerEjemplo\Examen\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\senpai\Desktop\Prueba\PrimerEjemplo\Examen\Helpers\obj\Debug\Helpers.dll
+C:\Users\senpai\Desktop\Prueba\PrimerEjemplo\Examen\Helpers\obj\Debug\Helpers.pdb
+C:\Users\senpai\Desktop\Prueba\PrimerEjemplo\Examen\Helpers\bin\Debug\Helpers.dll.config
+C:\Users\senpai\Desktop\Prueba\PrimerEjemplo\Examen\Helpers\bin\Debug\EntityFramework.dll
+C:\Users\senpai\Desktop\Prueba\PrimerEjemplo\Examen\Helpers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\senpai\Desktop\Prueba\PrimerEjemplo\Examen\Helpers\bin\Debug\EntityFramework.xml
+C:\Users\senpai\Desktop\Prueba\PrimerEjemplo\Examen\Helpers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\senpai\Desktop\Prueba\PrimerEjemplo\Examen\Helpers\obj\Debug\Helpers.csproj.CopyComplete
